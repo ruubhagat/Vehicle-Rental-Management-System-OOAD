@@ -1,6 +1,7 @@
+# Project Directory :
 
 ```
-OOAD
+Vehicle-Rental-Management-System-OOAD
 └─ src
    └─ com
       └─ vehiclerentals
