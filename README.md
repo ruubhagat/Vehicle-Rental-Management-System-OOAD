@@ -1,4 +1,4 @@
-# Project Directory :
+# Project Directory 
 
 ```
 Vehicle-Rental-Management-System-OOAD
